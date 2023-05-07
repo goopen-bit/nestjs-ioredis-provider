@@ -1,0 +1,2 @@
+export const CLUSTER_CLIENT = Symbol('CLUSTER_CLIENT');
+export const CLUSTER_MODULE_OPTIONS = Symbol('CLUSTER_MODULE_OPTIONS');

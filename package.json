@@ -1,7 +1,7 @@
 {
   "name": "@goopen/nestjs-ioredis-provider",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tiny NestJS provider for ioredis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [

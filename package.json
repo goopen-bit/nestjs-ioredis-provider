@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goopen-bit/nestjs-redis-provider.git"
+    "url": "https://github.com/goopen-bit/nestjs-ioredis-provider.git"
   },
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/goopen-bit/nestjs-redis-provider/issues"
+    "url": "https://github.com/goopen-bit/nestjs-ioredis-provider/issues"
   },
-  "homepage": "https://github.com/goopen-bit/nestjs-redis-provider#readme",
+  "homepage": "https://github.com/goopen-bit/nestjs-ioredis-provider#readme",
   "publishConfig": {
     "access": "public"
   },

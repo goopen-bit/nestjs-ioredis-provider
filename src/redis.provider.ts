@@ -9,7 +9,7 @@ export function createRedisProvider(): Provider {
     useFactory: async (options: RedisConfig) => {
       let client: Redis;
       if (options.url) {
-        client = new Redis(options.url);
+        client = new Redis(options.url, options);
       } else {
         client = new Redis(options);
       }
